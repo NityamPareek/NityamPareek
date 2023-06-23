@@ -1,9 +1,6 @@
-<center># Hi there👋, I'm Nityam Pareek</center>
+<center><h1>Hi there👋, I'm Nityam Pareek</h1></center>
+<center><h3>An aspiring ML Engineer from India</h3></center>
 <hr>
-<center>### A passionate ML Engineer from India</center>
-<!--
-**NityamPareek/NityamPareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 📫 How to reach me: ndnityam@gmail.com
 
 ### I'm Good With:
