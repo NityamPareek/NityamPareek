@@ -4,7 +4,7 @@
 
 ### How to Reach Me: 
 ndnityam@gmail.com
-### I'm Good With:
+### I'm Comfortable With:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,pytorch,tensorflow,mysql,html)
 ### Connect With Me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nityampareek/)
