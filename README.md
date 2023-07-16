@@ -1,5 +1,5 @@
 <center><h1>Hi There👋, I'm Nityam Pareek</h1></center>
-<center><h3>An Aspiring ML Engineer from India</h3></center>
+<center><h3>A Tech Enthusiast from India</h3></center>
 <hr>
 
 ### How to Reach Me: 
